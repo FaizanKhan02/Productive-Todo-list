@@ -24,4 +24,5 @@ A feature-rich todo list application with dark/light mode, categories, reminders
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FaizanKhan02/Productive-Todo-List.git
+   git clone https://github.com/FaizanKhan02/Productive-Todo-list.git
+   ```
